@@ -68,9 +68,10 @@
     margin-right: .5rem;
 
 }
-.card-tag-icon > svg{
+.card-tag-icon {
     color: var(--textgrey);
-    height: 20px;
+    height: 21px;
+    
 }
 .card-tag-box{
     border: 1px solid var(--grey1);
