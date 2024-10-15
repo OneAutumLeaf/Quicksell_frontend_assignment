@@ -1,4 +1,4 @@
-# [Kanban Board Application](https://main.d2nq9mz8ggbsl4.amplifyapp.com)
+# [Kanban Board Application](https://quicksell-assignment-ayushsingh-gamma.vercel.app/)
 
 This is a Kanban board application built using React JS that interacts with the provided API from [https://api.quicksell.co/v1/internal/frontend-assignment](https://api.quicksell.co/v1/internal/frontend-assignment). The program enables users to dynamically update the Kanban board depending on their grouping and sorting choices. Users can organize tickets by status, user, or priority, then sort the results by priority or title. The program also saves the user's view state even after a page reload.
 
@@ -12,7 +12,7 @@ This is a Kanban board application built using React JS that interacts with the 
 
 ## Link
 
-Click here for the live demo [Click Me](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
+Click here for the live demo [Click Me](https://quicksell-assignment-ayushsingh-gamma.vercel.app/).
 
 ## Installation
 
